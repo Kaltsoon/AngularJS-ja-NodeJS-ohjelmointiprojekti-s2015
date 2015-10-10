@@ -43,6 +43,7 @@ Projektin aiheen saa itse valita. Tärkeintä on vain, että siinä käytetään
  * Päivittäiset työtunnit, jossa ilmenee päiväämärä, lyhyt kuvaus tehdystä työstä ja käytetyt tunnit
  * Käytetyt tunnit yhteensä
  * :exclamation: **Jos teet samalla Node.js-projektin jaa tuntikirjanpito kahteen osaan: Node.js- ja Angular-projektin tuntikirjanpitoon!**
+ * :exclamation: **Jos toteutat projektia ryhmässä, jokaisella ryhmäläisellä tulee olla oma tuntikirjanpito!**
 * README:hen
  * Aihekuvaus, joka sisältää alustava selitys projektin ideasta
  * Linkki itse sovellukseen ([täällä](https://github.com/tuhoojabotti/AngularJS-ohjelmointiprojekti-k2014/blob/master/material/starting.md#hostaus) vaihtoehtoja hostaukseen)
@@ -69,6 +70,7 @@ Projektin aiheen saa itse valita. Tärkeintä on vain, että siinä käytetään
  * Päivittäiset työtunnit, jossa ilmenee päiväämärä, lyhyt kuvaus tehdystä työstä ja käytetyt tunnit
  * Käytetyt tunnit yhteensä
  * :exclamation: **Jos teet samalla Angular.js-projektin jaa tuntikirjanpito kahteen osaan: Node.js- ja Angular-projektin tuntikirjanpitoon!**
+ * :exclamation: **Jos toteutat projektia ryhmässä, jokaisella ryhmäläisellä tulee olla oma tuntikirjanpito!**
 * README:hen
  * Aihekuvaus, joka sisältää alustava selitys projektin ideasta
  * Linkki sovellukseen (jos kyseessä ei ole web-sovellus, lisää tarkat asennus- ja käyttöohjeet)
