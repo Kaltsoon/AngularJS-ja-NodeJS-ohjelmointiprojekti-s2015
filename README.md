@@ -12,6 +12,7 @@ Kurssin ainoana esitiona on JavaScript-kielen kohtalainen hallinta. Kurssilla **
 
 Molemmille **projekteille on yhteiset pajaohjausajat**, joiden aikana ohjaajalta saa kysyä molempiin projekteihin liittyviä kysymyksiä. 
 
+* Ohjaajana toimii Kalle Ilves (email: kalle.ilves[at]helsinki.fi, IRC-nick: kaltsoon)
 * Pajaohjaus (26.10 - 8.11):
   * Maanantaisin klo 12-14 luokassa BK107
   * Keskiviikkoisin klo 14-16 luokassa BK107
