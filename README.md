@@ -23,6 +23,15 @@ Molemmille **projekteille on yhteiset pajaohjausajat**, joiden aikana ohjaajalta
 
 AngularJS on suuren suosion saavuttanut JavaScript sovelluskehys skaalautuvien web-sovellusten kehittämiseen.
 
+### Projektin vaatimukset
+
+* Linkki sovellukseen repositorion kotisivukenttään ja README:hen
+* README-tiedostoon
+ * Aihekuvaus, joka sisältää alustava selitys projektin ideasta
+ * Linkki itse sovellukseen ([täällä](https://github.com/tuhoojabotti/AngularJS-ohjelmointiprojekti-k2014/blob/master/material/starting.md#hostaus) vaihtoehtoja hostaukseen)
+ * Muuta mukavaa (CI-palvelin linkki, ymv.)
+
+
 ### Hyviä linkkejä :thumbsup:
 
 * **[Ville Lahdenvuon kevään 2014 materiaali](https://github.com/tuhoojabotti/AngularJS-ohjelmointiprojekti-k2014#materiaali)**
