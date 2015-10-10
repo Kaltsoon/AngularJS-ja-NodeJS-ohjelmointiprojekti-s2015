@@ -49,7 +49,6 @@ Projektin aiheen saa itse valita. Tärkeintä on vain, että siinä käytetään
  * Linkki itse sovellukseen ([täällä](https://github.com/tuhoojabotti/AngularJS-ohjelmointiprojekti-k2014/blob/master/material/starting.md#hostaus) vaihtoehtoja hostaukseen)
  * Muuta mukavaa (CI-palvelin linkki, ymv. mahtavuutta)
 
-
 ### Hyviä linkkejä :thumbsup:
 
 * **[Ville Lahdenvuon kevään 2014 materiaali](https://github.com/tuhoojabotti/AngularJS-ohjelmointiprojekti-k2014#materiaali)**
@@ -60,6 +59,8 @@ Projektin aiheen saa itse valita. Tärkeintä on vain, että siinä käytetään
 ## Node.js ohjelmointiprojektin ohjeistus
 
 ![Node.js](https://raw.githubusercontent.com/Kaltsoon/AngularJS-ja-NodeJS-ohjelmointiprojekti-s2015/master/images/nodejs-logo.png)
+
+Node.js mahdollistaa JavaScriptin käytön selainpuolen sovellusten ulkopuolella. Sen avulla pystyt mm. toteuttamaan web-palvelin sovelluksia, jotka välittävät dataa tietokannasta selainpuolen sovelluksille.
 
 ### Projektin vaatimukset
 
