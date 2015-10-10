@@ -4,7 +4,7 @@ Tämä on kurssisivu syksyn 2015 Angular.js- ja Node.js-ohjelmointiprojekteille.
 
 Kurssin ainoana esitiona on JavaScript-kielen kohtalainen hallinta. Kurssilla **ei ole erilistä materiaalia**, vaan opiskelu on pääosin itsenäistä. Pajaohjausta järjestetään kuitenkin kolme kertaa viikossa, jonka aikana saa ohjausta oman sovelluksen toteuttamisen kanssa. 
 
-**Molempien projektien deadline on 12.11. Samalla viikolla järjestetään demotilaisuudet, jossa projektit esitellään muille. **
+**Molempien projektien deadline on 12.11 klo 23:59. Samalla viikolla järjestetään demotilaisuudet, jossa projektit esitellään muille.**
 
 #Ajankohtaista
 
@@ -28,11 +28,13 @@ Angularia ei voi rajata pelkäksi MVC-sovelluskehykseksi (vaikkakin niin usein t
 
 ### Projektin vaatimukset
 
+:exclamation: **Projektin deadline on 12.11 klo 23:59!**
+
 * Linkki sovellukseen repositorion kotisivukenttään, README:hen ja tuntikirjanpitoon
 * Tuntikirjanpitoon
  * Päivittäiset työtunnit, jossa ilmenee päiväämärä, lyhyt kuvaus tehdystä työstä ja käytetyt tunnit
  * Käytetyt tunnit yhteensä
- * **Jos teet samalla Node.js-projektin jaa tuntikirjanpito kahteen osaan: Node.js- ja Angular-projektin tuntikirjanpitoon!**
+ * :exclamation: **Jos teet samalla Node.js-projektin jaa tuntikirjanpito kahteen osaan: Node.js- ja Angular-projektin tuntikirjanpitoon!**
 * README:hen
  * Aihekuvaus, joka sisältää alustava selitys projektin ideasta
  * Linkki itse sovellukseen ([täällä](https://github.com/tuhoojabotti/AngularJS-ohjelmointiprojekti-k2014/blob/master/material/starting.md#hostaus) vaihtoehtoja hostaukseen)
