@@ -29,7 +29,7 @@ Angularia ei voi rajata pelkäksi MVC-sovelluskehykseksi (vaikkakin niin usein t
 
 :exclamation: **Projektin deadline on 12.11 klo 23:59!**
 
-* Linkki sovellukseen repositorion kotisivukenttään, README:hen ja tuntikirjanpitoon **issuena tähän repoon** deadlineen mennessä.
+* Linkki sovellukseen repositorion kotisivukenttään, README:hen ja tuntikirjanpitoon sähköpostina osoitteeseen kalle.ilves[at]helsinki.fi deadlineen mennessä. **Ilmoita viestissä opiskelijanumerosi ja suorittamasi projektit**.
 * Tuntikirjanpitoon
  * Päivittäiset työtunnit, jossa ilmenee päiväämärä, lyhyt kuvaus tehdystä työstä ja käytetyt tunnit
  * Käytetyt tunnit yhteensä
@@ -55,11 +55,11 @@ Angularia ei voi rajata pelkäksi MVC-sovelluskehykseksi (vaikkakin niin usein t
 
 :exclamation: **Projektin deadline on 12.11 klo 23:59!**
 
-* Linkki sovellukseen repositorion kotisivukenttään, README:hen ja tuntikirjanpitoon **issuena tähän repoon** deadlineen mennessä
+* Linkki sovellukseen repositorion kotisivukenttään, README:hen ja tuntikirjanpitoon sähköpostina osoitteeseen kalle.ilves[at]helsinki.fi deadlineen mennessä. **Ilmoita viestissä opiskelijanumerosi ja suorittamasi projektit**.
 * Tuntikirjanpitoon
  * Päivittäiset työtunnit, jossa ilmenee päiväämärä, lyhyt kuvaus tehdystä työstä ja käytetyt tunnit
  * Käytetyt tunnit yhteensä
- * :exclamation: **Jos teet samalla Node.js-projektin jaa tuntikirjanpito kahteen osaan: Node.js- ja Angular-projektin tuntikirjanpitoon!**
+ * :exclamation: **Jos teet samalla Angular.js-projektin jaa tuntikirjanpito kahteen osaan: Node.js- ja Angular-projektin tuntikirjanpitoon!**
 * README:hen
  * Aihekuvaus, joka sisältää alustava selitys projektin ideasta
  * Linkki sovellukseen (jos kyseessä ei ole web-sovellus, lisää tarkat asennus- ja käyttöohjeet)
