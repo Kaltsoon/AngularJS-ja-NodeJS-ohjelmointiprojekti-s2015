@@ -29,7 +29,7 @@ AngularJS on suuren suosion saavuttanut JavaScript sovelluskehys skaalautuvien w
 * README-tiedostoon
  * Aihekuvaus, joka sisältää alustava selitys projektin ideasta
  * Linkki itse sovellukseen ([täällä](https://github.com/tuhoojabotti/AngularJS-ohjelmointiprojekti-k2014/blob/master/material/starting.md#hostaus) vaihtoehtoja hostaukseen)
- * Muuta mukavaa (CI-palvelin linkki, ymv.)
+ * Muuta mukavaa (CI-palvelin linkki, ymv. mahtavuutta)
 
 
 ### Hyviä linkkejä :thumbsup:
