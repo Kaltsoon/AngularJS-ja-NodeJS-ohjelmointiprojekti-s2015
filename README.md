@@ -20,7 +20,6 @@ Molemmille **projekteille on yhteiset pajaohjausajat**, joiden aikana ohjaajalta
 
 ## Angular.js ohjelmointiprojektin ohjeistus
 
-
 ![Angular.js](https://raw.githubusercontent.com/Kaltsoon/AngularJS-ja-NodeJS-ohjelmointiprojekti-s2015/master/images/AngularJS-large.png)  
 
 AngularJS on suuren suosion saavuttanut JavaScript sovelluskehys skaalautuvien web-sovellusten kehittämiseen.
@@ -51,3 +50,25 @@ Angularia ei voi rajata pelkäksi MVC-sovelluskehykseksi (vaikkakin niin usein t
 ## Node.js ohjelmointiprojektin ohjeistus
 
 ![Node.js](https://raw.githubusercontent.com/Kaltsoon/AngularJS-ja-NodeJS-ohjelmointiprojekti-s2015/master/images/nodejs-logo.png)
+
+### Projektin vaatimukset
+
+:exclamation: **Projektin deadline on 12.11 klo 23:59!**
+
+* Linkki sovellukseen repositorion kotisivukenttään, README:hen ja tuntikirjanpitoon sähköpostiviestillä osoitteeseen kalle.ilves[at]helsinki.fi
+* Tuntikirjanpitoon
+ * Päivittäiset työtunnit, jossa ilmenee päiväämärä, lyhyt kuvaus tehdystä työstä ja käytetyt tunnit
+ * Käytetyt tunnit yhteensä
+ * :exclamation: **Jos teet samalla Node.js-projektin jaa tuntikirjanpito kahteen osaan: Node.js- ja Angular-projektin tuntikirjanpitoon!**
+* README:hen
+ * Aihekuvaus, joka sisältää alustava selitys projektin ideasta
+ * Linkki sovellukseen (jos kyseessä ei ole web-sovellus, lisää tarkat asennus- ja käyttöohjeet)
+ * Muuta mukavaa (CI-palvelin linkki, ymv. mahtavuutta)
+
+
+### Hyviä linkkejä :thumbsup:
+
+* **[Ville Lahdenvuon kevään 2014 materiaali](https://github.com/tuhoojabotti/NodeJS-ohjelmointiprojekti-k2014#materiaali)**
+ * Tutustu etenkin linkkiin "Alkuun pääseminen" 
+* [Node.js kotisivu](https://nodejs.org/en/)
+* [Express web-palvelinohjelmoinnista kiinnostuneille](http://expressjs.com/)
