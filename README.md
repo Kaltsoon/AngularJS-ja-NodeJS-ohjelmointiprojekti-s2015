@@ -30,7 +30,7 @@ Angularia ei voi rajata pelkäksi MVC-sovelluskehykseksi (vaikkakin niin usein t
 
 :exclamation: **Projektin deadline on 12.11 klo 23:59!**
 
-* Linkki sovellukseen repositorion kotisivukenttään, README:hen ja tuntikirjanpitoon
+* Linkki sovellukseen repositorion kotisivukenttään, README:hen ja tuntikirjanpitoon sähköpostiviestillä osoitteeseen kalle.ilves[at]helsinki.fi
 * Tuntikirjanpitoon
  * Päivittäiset työtunnit, jossa ilmenee päiväämärä, lyhyt kuvaus tehdystä työstä ja käytetyt tunnit
  * Käytetyt tunnit yhteensä
