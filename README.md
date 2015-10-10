@@ -32,7 +32,7 @@ Angularia ei voi rajata pelkäksi MVC-sovelluskehykseksi (vaikkakin niin usein t
 
 Projektin aiheen saa itse valita. Tärkeintä on vain, että siinä käytetään Angularia. Angularin lisäksi voit käyttää kaikkia haluamiasi kirjastoja ja työkaluja. Hyvä aihe voisi olla esimerkiksi keskustelualue-sovellus, joka käyttää sovelluksen datan tallentamiseen [Firebasea](https://www.firebase.com/).
 
-:question: **Jos sinulla on vaikeuksia aiheen keksimisen kanssa, tule kysymään siitä ohjauksessa!**
+:question: **Jos sinulla on vaikeuksia aiheen keksimisen kanssa, tule kysymään siitä ohjauksessa tai lähetä viestiä irkissä!**
 
 ### Projektin vaatimukset
 
@@ -62,6 +62,12 @@ Projektin aiheen saa itse valita. Tärkeintä on vain, että siinä käytetään
 
 Node.js mahdollistaa JavaScriptin käytön selainpuolen sovellusten ulkopuolella. Sen avulla pystyt mm. toteuttamaan web-palvelin sovelluksia, jotka välittävät dataa tietokannasta selainpuolen sovelluksille.
 
+### Projektin aihe
+
+Projektin aiheena on vapaavalintaine Node.js sovellus. Voit käyttää vapaasti haluamiasi Node-kirjastoja ja työkaluja. Hyvä aihe voisi olla esimerkiksi [Stackoverflow](http://stackoverflow.com/)-kopio [Sails](http://sailsjs.org/) MVC-sovelluskehyksellä.
+
+:question: **Jos sinulla on vaikeuksia aiheen keksimisen kanssa, tule kysymään siitä ohjauksessa tai lähetä viestiä irkissä!**
+
 ### Projektin vaatimukset
 
 :exclamation: **Projektin deadline on 12.11 klo 23:59!**
@@ -77,7 +83,6 @@ Node.js mahdollistaa JavaScriptin käytön selainpuolen sovellusten ulkopuolella
  * Linkki sovellukseen (jos kyseessä ei ole web-sovellus, lisää tarkat asennus- ja käyttöohjeet)
  * Muuta mukavaa (CI-palvelin linkki, ymv. mahtavuutta)
 
-
 ### Hyviä linkkejä :thumbsup:
 
 * **[Ville Lahdenvuon kevään 2014 materiaali](https://github.com/tuhoojabotti/NodeJS-ohjelmointiprojekti-k2014#materiaali)**
@@ -85,3 +90,4 @@ Node.js mahdollistaa JavaScriptin käytön selainpuolen sovellusten ulkopuolella
 * [Node.js kotisivu](https://nodejs.org/en/)
 * [Express](http://expressjs.com/) web-palvelinohjelmoinnista kiinnostuneille
  * [Web-selainohjelmointi kurssin viimeisellä viikolla](http://web-selainohjelmointi.github.io/#21-Palvelinohjelmointia-JavaScriptill%C3%A4---Node.js-ja-Express) toteutetaan pieni Express-sovellus
+* [Sails](http://sailsjs.org/) MVC-sovelluskehys 
