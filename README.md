@@ -1,6 +1,8 @@
 # Syksyn 2015 Angular.js- ja Node.js ohjelmointiprojektit
 
-Tämä on kurssisivu syksyn 2015 Angular.js- ja Node.js-ohjelmointiprojekteille. Kurssit voi suorittaa joko **erikseen** tai **samanaikaisesti** toteuttamalla vapaavalintaisen sovelluksen, joka käyttää joko toista tai molempia teknologioista. Kummastakin projektista voi saada **1-3 opintopistettä** niin, että **n. 20 työtuntia vastaa aina yhtä opintopistettä**. Työtunnit tulee olla kirjattuna erilliseen tuntikirjanpitoon, josta kerrotaan lisää projektikohtaisessa ohjeessa. **Ilman tuntikirjanpitoa opintopisteitä ei voi saada!** Projekteista **ei saa arvosanaa**, vaan ne arvostellaan hyväksytty-hylätty-asteikolla.
+Tämä on kurssisivu syksyn 2015 Angular.js- ja Node.js-ohjelmointiprojekteille. Kurssit voi suorittaa joko **erikseen** tai **samanaikaisesti** toteuttamalla vapaavalintaisen sovelluksen, joka käyttää joko toista tai molempia teknologioista. Projekti(t) on mahdollista toteuttaa myös ryhmässä.
+
+Kummastakin projektista voi saada **1-3 opintopistettä** niin, että **n. 20 työtuntia vastaa aina yhtä opintopistettä**. Työtunnit tulee olla kirjattuna erilliseen tuntikirjanpitoon, josta kerrotaan lisää projektikohtaisessa ohjeessa. Ryhmässä toteutussa projektissa jokaisella ryhmäläisellä tulee olla erillinen tuntikirjanpito. **Ilman tuntikirjanpitoa opintopisteitä ei voi saada!** Projekteista **ei saa arvosanaa**, vaan ne arvostellaan hyväksytty-hylätty-asteikolla.
 
 Kurssin ainoana esitiona on JavaScript-kielen kohtalainen hallinta. Kurssilla **ei ole erilistä materiaalia**, vaan opiskelu on pääosin itsenäistä. Pajaohjausta järjestetään kuitenkin kolme kertaa viikossa, jonka aikana saa ohjausta oman sovelluksen toteuttamisen kanssa. 
 
@@ -25,6 +27,12 @@ Molemmille **projekteille on yhteiset pajaohjausajat**, joiden aikana ohjaajalta
 
 AngularJS on suuren suosion saavuttanut JavaScript sovelluskehys skaalautuvien web-sovellusten kehittämiseen.
 Angularia ei voi rajata pelkäksi MVC-sovelluskehykseksi (vaikkakin niin usein tehdään), vaan tarkempi termi onkin "Model View Whatever" (MVW). Se siis esittää mallia näkymässä ja välittää näkymässä tehtyjä muutoksia takaisin malliin. Mitä mallin ja näkymän rajapinnassa tapahtuu, on ohjelmoijan itsensä päätettävissä. 
+
+### Projektin aihe
+
+Projektin aiheen saa itse valita. Tärkeintä on vain, että siinä käytetään Angularia. Angularin lisäksi voit käyttää kaikkia haluamiasi kirjastoja ja työkaluja. Hyvä aihe voisi olla esimerkiksi keskustelualue-sovellus, joka käyttää sovelluksen datan tallentamiseen [Firebasea](https://www.firebase.com/).
+
+:question: **Jos sinulla on vaikeuksia aiheen keksimisen kanssa, tule kysymään siitä ohjauksessa!**
 
 ### Projektin vaatimukset
 
