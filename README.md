@@ -72,3 +72,4 @@ Angularia ei voi rajata pelkäksi MVC-sovelluskehykseksi (vaikkakin niin usein t
  * Tutustu etenkin linkkiin "Alkuun pääseminen" 
 * [Node.js kotisivu](https://nodejs.org/en/)
 * [Express web-palvelinohjelmoinnista kiinnostuneille](http://expressjs.com/)
+ * [Web-selainohjelmointi kurssin viimeisellä viikolla](http://web-selainohjelmointi.github.io/#21-Palvelinohjelmointia-JavaScriptill%C3%A4---Node.js-ja-Express) toteutetaan pieni Express-sovellus
