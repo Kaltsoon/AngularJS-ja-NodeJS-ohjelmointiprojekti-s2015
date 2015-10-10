@@ -4,6 +4,8 @@ Tämä on kurssisivu syksyn 2015 Angular.js- ja Node.js-ohjelmointiprojekteille.
 
 Kurssin ainoana esitiona on JavaScript-kielen kohtalainen hallinta. Kurssilla **ei ole erilistä materiaalia**, vaan opiskelu on pääosin itsenäistä. Pajaohjausta järjestetään kuitenkin kolme kertaa viikossa, jonka aikana saa ohjausta oman sovelluksen toteuttamisen kanssa. 
 
+**Molempien projektien deadline on 12.11. Samalla viikolla järjestetään demotilaisuudet, jossa projektit esitellään muille. **
+
 #Ajankohtaista
 
 #Ohjaus
@@ -22,11 +24,16 @@ Molemmille **projekteille on yhteiset pajaohjausajat**, joiden aikana ohjaajalta
 ![Angular.js](https://raw.githubusercontent.com/Kaltsoon/AngularJS-ja-NodeJS-ohjelmointiprojekti-s2015/master/images/AngularJS-large.png)  
 
 AngularJS on suuren suosion saavuttanut JavaScript sovelluskehys skaalautuvien web-sovellusten kehittämiseen.
+Angularia ei voi rajata pelkäksi MVC-sovelluskehykseksi (vaikkakin niin usein tehdään), vaan tarkempi termi onkin "Model View Whatever" (MVW). Se siis esittää mallia näkymässä ja välittää näkymässä tehtyjä muutoksia takaisin malliin. Mitä mallin ja näkymän rajapinnassa tapahtuu, on ohjelmoijan itsensä päätettävissä. 
 
 ### Projektin vaatimukset
 
-* Linkki sovellukseen repositorion kotisivukenttään ja README:hen
-* README-tiedostoon
+* Linkki sovellukseen repositorion kotisivukenttään, README:hen ja tuntikirjanpitoon
+* Tuntikirjanpitoon
+ * Päivittäiset työtunnit, jossa ilmenee päiväämärä, lyhyt kuvaus tehdystä työstä ja käytetyt tunnit
+ * Käytetyt tunnit yhteensä
+ * **Jos teet samalla Node.js-projektin jaa tuntikirjanpito kahteen osaan: Node.js- ja Angular-projektin tuntikirjanpitoon!**
+* README:hen
  * Aihekuvaus, joka sisältää alustava selitys projektin ideasta
  * Linkki itse sovellukseen ([täällä](https://github.com/tuhoojabotti/AngularJS-ohjelmointiprojekti-k2014/blob/master/material/starting.md#hostaus) vaihtoehtoja hostaukseen)
  * Muuta mukavaa (CI-palvelin linkki, ymv. mahtavuutta)
@@ -36,6 +43,7 @@ AngularJS on suuren suosion saavuttanut JavaScript sovelluskehys skaalautuvien w
 
 * **[Ville Lahdenvuon kevään 2014 materiaali](https://github.com/tuhoojabotti/AngularJS-ohjelmointiprojekti-k2014#materiaali)**
  * Tutustu etenkin linkkiin "Alkuun pääseminen" 
+* [Web-selainohjelmointi kurssin materiaalin Angular-osiot (kappaleesta 12 eteenpäin)](http://web-selainohjelmointi.github.io/#12-Sovelluksen-rakenteen-hallinta:-AngularJS)
 * [Angular.js-sovelluskehyksen kotisivu](https://angularjs.org)
 
 ## Node.js ohjelmointiprojektin ohjeistus
