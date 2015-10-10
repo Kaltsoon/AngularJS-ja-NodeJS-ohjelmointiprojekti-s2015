@@ -25,7 +25,9 @@ AngularJS on suuren suosion saavuttanut JavaScript sovelluskehys skaalautuvien w
 
 ### Hyviä linkkejä :thumbsup:
 
-* [Ville Lahdenvuon kevään 2014 materiaali](https://github.com/tuhoojabotti/AngularJS-ohjelmointiprojekti-k2014#materiaali)
+* **[Ville Lahdenvuon kevään 2014 materiaali](https://github.com/tuhoojabotti/AngularJS-ohjelmointiprojekti-k2014#materiaali)**
+ * Tutustu etenkin linkkiin "Alkuun pääseminen" 
+* [Angular.js-sovelluskehyksen kotisivu](https://angularjs.org)
 
 ## Node.js ohjelmointiprojektin ohjeistus
 
