@@ -10,7 +10,7 @@ Kurssin ainoana esitiona on JavaScript-kielen kohtalainen hallinta. Kurssilla **
 
 #Ajankohtaista
 
-* :bulb: Kurssi alkaa vapaaehtoisella introlla maanantaina klo 14:00. Introssa fiilistellään lyhyesti Nodea ja Angularia sekä käydään läpi kurssiin liittyviä asioita. **Jos sinulle on jo kaikki selvää, ei introon tarvitse tulla.**
+* :bulb: Kurssi alkaa vapaaehtoisella introlla maanantaina 26.10 klo 14:00. Introssa fiilistellään lyhyesti Nodea ja Angularia sekä käydään läpi kurssiin liittyviä asioita. **Jos sinulle on jo kaikki selvää, ei introon tarvitse tulla.**
 
 #Ohjaus
 
