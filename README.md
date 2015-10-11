@@ -32,6 +32,8 @@ Angularia ei voi rajata pelkäksi MVC-sovelluskehykseksi (vaikkakin niin usein t
 
 Projektin aiheen saa itse valita. Tärkeintä on vain, että siinä käytetään Angularia. Angularin lisäksi voit käyttää kaikkia haluamiasi kirjastoja ja työkaluja. Hyvä aihe voisi olla esimerkiksi keskustelualue-sovellus, joka käyttää sovelluksen datan tallentamiseen [Firebasea](https://www.firebase.com/).
 
+:thumbsup: **Voit forkata vaikkapa [tämän](https://github.com/Kaltsoon/Angular-boilerplate) repon projektisi pohjaksi.**
+
 :question: **Jos sinulla on vaikeuksia aiheen keksimisen kanssa, tule kysymään siitä ohjauksessa tai lähetä viestiä irkissä!**
 
 ### Projektin vaatimukset
