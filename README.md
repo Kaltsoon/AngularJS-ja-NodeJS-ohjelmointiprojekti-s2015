@@ -42,7 +42,7 @@ Projektin aiheen saa itse valita. Tärkeintä on vain, että siinä käytetään
 
 :exclamation: **Projektin deadline on 12.11 klo 23:59!**
 
-* Linkki sovellukseen repositorion kotisivukenttään, README:hen ja tuntikirjanpitoon sähköpostina osoitteeseen kalle.ilves[at]helsinki.fi deadlineen mennessä. **Ilmoita viestissä opiskelijanumerosi ja suorittamasi projektit**.
+* Koodille GitHub-repo, josta löytyy kaikki lähdekoodi, tuntikirjanpito (jos kyseessä on ryhmätyö, jokaiselle ryhmäläiselle oma kirjanpito) ja README 
 * Tuntikirjanpitoon
  * Päivittäiset työtunnit, jossa ilmenee päiväämärä, lyhyt kuvaus tehdystä työstä ja käytetyt tunnit
  * Käytetyt tunnit yhteensä
@@ -52,6 +52,8 @@ Projektin aiheen saa itse valita. Tärkeintä on vain, että siinä käytetään
  * Aihekuvaus, joka sisältää alustava selitys projektin ideasta
  * Linkki itse sovellukseen ([täällä](https://github.com/tuhoojabotti/AngularJS-ohjelmointiprojekti-k2014/blob/master/material/starting.md#hostaus) vaihtoehtoja hostaukseen)
  * Muuta mukavaa (CI-palvelin linkki, ymv. mahtavuutta)
+
+:exclamation: **Kun projekti on valmis, palauta se tämän lomakkeen kautta. Vaikka olisit tehnyt molemmat projektit, vain yksi palautus riittää**
 
 ### Hyviä linkkejä :thumbsup:
 
@@ -76,7 +78,7 @@ Projektin aiheena on vapaavalintaine Node.js sovellus. Voit käyttää vapaasti 
 
 :exclamation: **Projektin deadline on 12.11 klo 23:59!**
 
-* Linkki sovellukseen repositorion kotisivukenttään, README:hen ja tuntikirjanpitoon sähköpostina osoitteeseen kalle.ilves[at]helsinki.fi deadlineen mennessä. **Ilmoita viestissä opiskelijanumerosi ja suorittamasi projektit**.
+* Koodille GitHub-repo, josta löytyy kaikki lähdekoodi, tuntikirjanpito (jos kyseessä on ryhmätyö, jokaiselle ryhmäläiselle oma kirjanpito) ja README
 * Tuntikirjanpitoon
  * Päivittäiset työtunnit, jossa ilmenee päiväämärä, lyhyt kuvaus tehdystä työstä ja käytetyt tunnit
  * Käytetyt tunnit yhteensä
@@ -86,6 +88,8 @@ Projektin aiheena on vapaavalintaine Node.js sovellus. Voit käyttää vapaasti 
  * Aihekuvaus, joka sisältää alustava selitys projektin ideasta
  * Linkki sovellukseen (jos kyseessä ei ole web-sovellus, lisää tarkat asennus- ja käyttöohjeet)
  * Muuta mukavaa (CI-palvelin linkki, ymv. mahtavuutta)
+
+:exclamation: **Kun projekti on valmis, palauta se tämän lomakkeen kautta. Vaikka olisit tehnyt molemmat projektit, vain yksi palautus riittää**
 
 ### Hyviä linkkejä :thumbsup:
 
