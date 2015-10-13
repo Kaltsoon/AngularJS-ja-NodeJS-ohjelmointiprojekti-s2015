@@ -32,14 +32,14 @@ Molemmille **projekteille on yhteiset pajaohjausajat**, joiden aikana ohjaajalta
   * Perjantaisin klo 12-14 luokassa B221
 * IRC-kanavana toimii **#angular-node-2015**, josta voi kysyä neuvoa ohjaajalta ja muilta opiskelijoilta
 
-## Angular.js ohjelmointiprojektin ohjeistus
+# Angular.js ohjelmointiprojektin ohjeistus
 
 ![Angular.js](https://raw.githubusercontent.com/Kaltsoon/AngularJS-ja-NodeJS-ohjelmointiprojekti-s2015/master/images/AngularJS-large.png)  
 
 AngularJS on suuren suosion saavuttanut JavaScript sovelluskehys skaalautuvien web-sovellusten kehittämiseen.
 Angularia ei voi rajata pelkäksi MVC-sovelluskehykseksi (vaikkakin niin usein tehdään), vaan tarkempi termi onkin "Model View Whatever" (MVW). Se siis esittää mallia näkymässä ja välittää näkymässä tehtyjä muutoksia takaisin malliin. Mitä mallin ja näkymän rajapinnassa tapahtuu, on ohjelmoijan itsensä päätettävissä. 
 
-### Projektin aihe
+## Projektin aihe
 
 Projektin aiheen saa itse valita. Tärkeintä on vain, että siinä käytetään Angularia. Angularin lisäksi voit käyttää kaikkia haluamiasi kirjastoja ja työkaluja. Hyvä aihe voisi olla esimerkiksi keskustelualue-sovellus, joka käyttää sovelluksen datan tallentamiseen [Firebasea](https://www.firebase.com/).
 
@@ -47,7 +47,7 @@ Projektin aiheen saa itse valita. Tärkeintä on vain, että siinä käytetään
 
 :question: **Jos sinulla on vaikeuksia aiheen keksimisen kanssa, tule kysymään siitä ohjauksessa tai lähetä viestiä irkissä!**
 
-### Projektin vaatimukset
+## Projektin vaatimukset
 
 :exclamation: **Projektin deadline on tiistai 10.11 klo 23:59!**
 
@@ -64,26 +64,26 @@ Projektin aiheen saa itse valita. Tärkeintä on vain, että siinä käytetään
 
 :exclamation: **Kun projekti on valmis, palauta se [tämän](https://docs.google.com/forms/d/1EvNIwoNnah_r1dNO29fxm1mHTJ_5ilMy8F_SUy1Bj5g/viewform?usp=send_form) lomakkeen kautta. Vaikka olisit tehnyt molemmat projektit, vain yksi palautus riittää. Jos projekti on tehty ryhmässä, jokainen ryhmäläinen tekee oman palautuksensa.**
 
-### Hyviä linkkejä :thumbsup:
+## Hyviä linkkejä :thumbsup:
 
 * **[Ville Lahdenvuon kevään 2014 materiaali](https://github.com/tuhoojabotti/AngularJS-ohjelmointiprojekti-k2014#materiaali)**
  * Tutustu etenkin linkkiin "Alkuun pääseminen" 
 * [Web-selainohjelmointi kurssin materiaalin Angular-osiot (kappaleesta 12 eteenpäin)](http://web-selainohjelmointi.github.io/#12-Sovelluksen-rakenteen-hallinta:-AngularJS)
 * [Angular.js-sovelluskehyksen kotisivu](https://angularjs.org)
 
-## Node.js ohjelmointiprojektin ohjeistus
+# Node.js ohjelmointiprojektin ohjeistus
 
 ![Node.js](https://raw.githubusercontent.com/Kaltsoon/AngularJS-ja-NodeJS-ohjelmointiprojekti-s2015/master/images/nodejs-logo.png)
 
 Node.js mahdollistaa JavaScriptin käytön selainpuolen sovellusten ulkopuolella. Sen avulla pystyt mm. toteuttamaan web-palvelin sovelluksia, jotka välittävät dataa tietokannasta selainpuolen sovelluksille.
 
-### Projektin aihe
+## Projektin aihe
 
 Projektin aiheena on vapaavalintaine Node.js sovellus. Voit käyttää vapaasti haluamiasi Node-kirjastoja ja työkaluja. Hyvä aihe voisi olla esimerkiksi [Stackoverflow](http://stackoverflow.com/)-kopio [Sails](http://sailsjs.org/) MVC-sovelluskehyksellä.
 
 :question: **Jos sinulla on vaikeuksia aiheen keksimisen kanssa, tule kysymään siitä ohjauksessa tai lähetä viestiä irkissä!**
 
-### Projektin vaatimukset
+## Projektin vaatimukset
 
 :exclamation: **Projektin deadline on tiistai 10.11 klo 23:59!**
 
@@ -100,7 +100,7 @@ Projektin aiheena on vapaavalintaine Node.js sovellus. Voit käyttää vapaasti 
 
 :exclamation: **Kun projekti on valmis, palauta se [tämän](https://docs.google.com/forms/d/1EvNIwoNnah_r1dNO29fxm1mHTJ_5ilMy8F_SUy1Bj5g/viewform?usp=send_form) lomakkeen kautta. Vaikka olisit tehnyt molemmat projektit, vain yksi palautus riittää. Jos projekti on tehty ryhmässä, jokainen ryhmäläinen tekee oman palautuksensa.**
 
-### Hyviä linkkejä :thumbsup:
+## Hyviä linkkejä :thumbsup:
 
 * **[Ville Lahdenvuon kevään 2014 materiaali](https://github.com/tuhoojabotti/NodeJS-ohjelmointiprojekti-k2014#materiaali)**
  * Tutustu etenkin linkkiin "Alkuun pääseminen" 
