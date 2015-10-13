@@ -6,7 +6,7 @@ Kummastakin projektista voi saada **1-3 opintopistettä** niin, että **n. 20 ty
 
 Kurssin ainoana esitiona on JavaScript-kielen kohtalainen hallinta. Kurssilla **ei ole erilistä materiaalia**, vaan opiskelu on pääosin itsenäistä. Pajaohjausta järjestetään kuitenkin kolme kertaa viikossa, jonka aikana saa ohjausta oman sovelluksen toteuttamisen kanssa. 
 
-:exclamation: **Molempien projektien deadline on 12.11 klo 23:59. Samalla viikolla järjestetään demotilaisuudet, jossa projektit esitellään muille.**
+:exclamation: **Molempien projektien deadline on tiistai 10.11 klo 23:59. Samalla viikolla järjestetään demotilaisuudet, jossa projektit esitellään muille.**
 
 #Ajankohtaista
 
@@ -40,7 +40,7 @@ Projektin aiheen saa itse valita. Tärkeintä on vain, että siinä käytetään
 
 ### Projektin vaatimukset
 
-:exclamation: **Projektin deadline on 12.11 klo 23:59!**
+:exclamation: **Projektin deadline on tiistai 10.11 klo 23:59!**
 
 * Koodille GitHub-repo, josta löytyy kaikki lähdekoodi, tuntikirjanpito (jos kyseessä on ryhmätyö, jokaiselle ryhmäläiselle oma kirjanpito) ja README 
 * Tuntikirjanpitoon
@@ -76,7 +76,7 @@ Projektin aiheena on vapaavalintaine Node.js sovellus. Voit käyttää vapaasti 
 
 ### Projektin vaatimukset
 
-:exclamation: **Projektin deadline on 12.11 klo 23:59!**
+:exclamation: **Projektin deadline on tiistai 10.11 klo 23:59!**
 
 * Koodille GitHub-repo, josta löytyy kaikki lähdekoodi, tuntikirjanpito (jos kyseessä on ryhmätyö, jokaiselle ryhmäläiselle oma kirjanpito) ja README
 * Tuntikirjanpitoon
