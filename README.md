@@ -8,6 +8,15 @@ Kurssin ainoana esitiona on JavaScript-kielen kohtalainen hallinta. Kurssilla **
 
 :exclamation: **Molempien projektien deadline on tiistai 10.11 klo 23:59. Samalla viikolla järjestetään demotilaisuudet, jossa projektit esitellään muille.**
 
+## Demotilaisuudet
+
+Kurssi päättyy demotilaisuuteen, jossa opiskelijat esittelevät projektinsa lyhyesti muille. Demotilaisuuksia järjestetään kaksi, valitse itsellesi sopivin aika ja tule demoamaan projektiasi:
+
+* Maanantaina 9.11 klo 14-16 luokassa B221
+* Tiistaina 10.11 klo 15-16 luokassa B221
+
+Jos mikään ajoista ei sovi, lähetä ohjaajalle mailia (kalle.ilves[at].helsinki.fi) tai pistä viestiä irkissä (kaltsoon).
+
 #Ajankohtaista
 
 * :bulb: Kurssi alkaa vapaaehtoisella introlla maanantaina 26.10 klo 14:00-16:00 (heti ohjauksen jälkeen) luokassa B221. Introssa fiilistellään lyhyesti Nodea ja Angularia sekä käydään läpi kurssiin liittyviä asioita. **Jos sinulle on jo kaikki selvää, ei introon tarvitse tulla.**
