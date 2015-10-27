@@ -19,6 +19,7 @@ Jos mikään ajoista ei sovi, lähetä ohjaajalle mailia (kalle.ilves[at].helsin
 
 #Ajankohtaista
 
+* :exclamation: kaikki pajaohjaukset pidetään tästä lähtien luokassa BK107.
 * :bulb: Kurssi alkaa vapaaehtoisella introlla maanantaina 26.10 klo 14:00-16:00 (heti ohjauksen jälkeen) luokassa B221. Introssa fiilistellään lyhyesti Nodea ja Angularia sekä käydään läpi kurssiin liittyviä asioita. **Jos sinulle on jo kaikki selvää, ei introon tarvitse tulla.**
 
 #Ohjaus
@@ -27,9 +28,9 @@ Molemmille **projekteille on yhteiset pajaohjausajat**, joiden aikana ohjaajalta
 
 * Ohjaajana toimii Kalle Ilves (email: kalle.ilves[at]helsinki.fi, IRC-nick: kaltsoon)
 * Pajaohjaus (26.10 - 8.11):
-  * Maanantaisin klo 12-14 luokassa B221
-  * Keskiviikkoisin klo 14-16 luokassa B221
-  * Perjantaisin klo 12-14 luokassa B221
+  * Maanantaisin klo 12-14 luokassa BK107
+  * Keskiviikkoisin klo 14-16 luokassa BK107
+  * Perjantaisin klo 12-14 luokassa BK107
 * IRC-kanavana toimii **#angular-node-2015**, josta voi kysyä neuvoa ohjaajalta ja muilta opiskelijoilta
 
 # Angular.js ohjelmointiprojektin ohjeistus
