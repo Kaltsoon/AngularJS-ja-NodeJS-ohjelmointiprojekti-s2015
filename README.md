@@ -19,7 +19,7 @@ Jos mikään ajoista ei sovi, lähetä ohjaajalle mailia (kalle.ilves[at].helsin
 
 #Ajankohtaista
 
-* :exclamation: kaikki pajaohjaukset pidetään tästä lähtien luokassa BK107.
+* :exclamation: Kaikki pajaohjaukset pidetään tästä lähtien luokassa BK107.
 * :bulb: Kurssi alkaa vapaaehtoisella introlla maanantaina 26.10 klo 14:00-16:00 (heti ohjauksen jälkeen) luokassa B221. Introssa fiilistellään lyhyesti Nodea ja Angularia sekä käydään läpi kurssiin liittyviä asioita. **Jos sinulle on jo kaikki selvää, ei introon tarvitse tulla.**
 
 #Ohjaus
