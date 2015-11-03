@@ -12,7 +12,7 @@ Kurssin ainoana esitiona on JavaScript-kielen kohtalainen hallinta. Kurssilla **
 
 Kurssi päättyy demotilaisuuteen, jossa opiskelijat esittelevät projektinsa lyhyesti muille. Demotilaisuuksia järjestetään kaksi, valitse itsellesi sopivin aika ja tule demoamaan projektiasi:
 
-* Maanantaina 9.11 klo 14-16 luokassa B221
+* Maanantaina 9.11 klo 14-16 luokassa BK107
 * Tiistaina 10.11 klo 14-16 luokassa B221
 
 Jos mikään ajoista ei sovi, lähetä ohjaajalle mailia (kalle.ilves[at].helsinki.fi) tai pistä viestiä irkissä (kaltsoon).
